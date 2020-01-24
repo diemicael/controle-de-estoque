@@ -1,0 +1,237 @@
+﻿@{
+	ViewBag.Title = "Sobre";
+}
+
+<style>
+    ul#album-fotos {
+        width: 1200px;
+        margin: 0 auto;
+        padding: 20px;
+        overflow: hidden;
+        list-style: none;
+    }
+
+        ul#album-fotos li {
+            float: left;
+            width: 200px;
+            height: 200px;
+            margin: 40px;
+            border: 7px solid #00A859;
+            background-color: #ffffff;
+            box-shadow: 5px 5px 5px rgba(0,0,0,.8);
+            -webkit-transition: all .5s ease-in;
+            border-radius: 50%;
+        }
+
+            ul#album-fotos li span {
+                color: #F58634;
+                opacity: 5px;
+                text-shadow: 1px 1px 1px #000000;
+                font-weight: bold;
+                line-height: 200px;
+                padding: 0px;
+            }
+
+            ul#album-fotos li:hover {
+                -webkit-transform: scale(1.5);
+            }
+
+                ul#album-fotos li:hover span {
+                    opacity: 1;
+                }
+
+            ul#album-fotos li#foto01 {
+                background: url(../../Content/Imagens/img1.jpg) no-repeat;
+                background-position: 50% 50%;
+                background-size: 400px 400px;
+                background-color: #ffffff;
+                text-align: center;
+                font-size: 13pt;
+            }
+
+                ul#album-fotos li#foto01:hover {
+                    background-position: 0px 0px;
+                    background-size: 200px 200px;
+                }
+
+            ul#album-fotos li#foto02 {
+                background: url(../../Content/Imagens/img7.png) no-repeat;
+                background-position: 50% 50%;
+                background-size: 400px 400px;
+                background-color: #ffffff;
+                font-size: 13pt;
+            }
+
+                ul#album-fotos li#foto02:hover {
+                    background-position: 0px 0px;
+                    background-size: 200px 200px;
+                }
+
+            ul#album-fotos li#foto03 {
+                background: url(../../Content/Imagens/img3.png) no-repeat;
+                background-position: 50% 50%;
+                background-size: 400px 400px;
+                background-color: #ffffff;
+                font-size: 13pt;
+            }
+
+                ul#album-fotos li#foto03:hover {
+                    background-position: 0px 0px;
+                    background-size: 200px 200px;
+                }
+
+            ul#album-fotos li#foto04 {
+                background: url(../../Content/Imagens/img2.png) no-repeat;
+                background-position: 50% 50%;
+                background-size: 400px 400px;
+                background-color: #ffffff;
+                font-size: 13pt;
+            }
+
+                ul#album-fotos li#foto04:hover {
+                    background-position: 0px 0px;
+                    background-size: 200px 200px;
+                }
+
+            ul#album-fotos li#foto05 {
+                background: url(../../Content/Imagens/img5.png) no-repeat;
+                background-position: 50% 50%;
+                background-size: 400px 400px;
+                background-color: #ffffff;
+                font-size: 13pt;
+            }
+
+                ul#album-fotos li#foto05:hover {
+                    background-position: 0px 0px;
+                    background-size: 200px 200px;
+                }
+
+            ul#album-fotos li#foto06 {
+                background: url(../../Content/Imagens/img4.png) no-repeat;
+                background-position: 50% 50%;
+                background-size: 400px 400px;
+                background-color: #ffffff;
+                font-size: 13pt;
+            }
+
+                ul#album-fotos li#foto06:hover {
+                    background-position: 0px 0px;
+                    background-size: 200px 200px;
+                }
+
+            ul#album-fotos li#foto07 {
+                background: url(../../Content/Imagens/img6.png) no-repeat;
+                background-position: 50% 50%;
+                background-size: 400px 400px;
+                background-color: #ffffff;
+                font-size: 12pt;
+            }
+
+                ul#album-fotos li#foto07:hover {
+                    background-position: 0px 0px;
+                    background-size: 200px 200px;
+                }
+
+            ul#album-fotos li#foto08 {
+                background: url(../../Content/Imagens/img8.png) no-repeat;
+                background-position: 50% 50%;
+                background-size: 400px 400px;
+                background-color: #ffffff;
+                font-size: 13pt;
+            }
+
+                ul#album-fotos li#foto08:hover {
+                    background-position: 0px 0px;
+                    background-size: 200px 200px;
+                }
+
+            ul#album-fotos li#foto09 {
+                background: url(../../Content/Imagens/img15.png) no-repeat;
+                background-position: 50% 50%;
+                background-size: 400px 400px;
+                background-color: #ffffff;
+                font-size: 13pt;
+            }
+
+                ul#album-fotos li#foto09:hover {
+                    background-position: 0px 0px;
+                    background-size: 200px 200px;
+                }
+
+            ul#album-fotos li#foto10 {
+                background: url(../../Content/Imagens/img10.png) no-repeat;
+                background-position: 50% 50%;
+                background-size: 400px 400px;
+                background-color: #ffffff;
+                font-size: 13pt;
+            }
+
+                ul#album-fotos li#foto10:hover {
+                    background-position: 0px 0px;
+                    background-size: 200px 200px;
+                }
+
+            ul#album-fotos li#foto11 {
+                background: url(../../Content/Imagens/img11.png) no-repeat;
+                background-position: 50% 50%;
+                background-size: 400px 400px;
+                background-color: #ffffff;
+                font-size: 13pt;
+            }
+
+                ul#album-fotos li#foto11:hover {
+                    background-position: 0px 0px;
+                    background-size: 200px 200px;
+                }
+
+            ul#album-fotos li#foto12 {
+                background: url(../../Content/Imagens/img12.png) no-repeat;
+                background-position: 50% 50%;
+                background-size: 400px 400px;
+                background-color: #ffffff;
+                font-size: 13pt;
+            }
+
+                ul#album-fotos li#foto12:hover {
+                    background-position: 0px 0px;
+                    background-size: 200px 200px;
+                }
+</style>
+
+
+
+<div class="row">
+    <section id="corpo-full" >
+        <article id="noticia-principal">
+            <header id="cabecalho-artigo">
+                <hgroup>
+                    <h1>Sobre o Infogram!</h1>
+                </hgroup>
+            </header>
+            <p> Loja de informática com produtos variados, de boa qualidade para dar aquele upgrade no seu pc. Gabinetes, monitores, placa-mãe, montamos o seu pc do zero, exatamente como você quer. Para os gamers, placa-de-vídeo de última geraçăo, mouse gamer, teclado gamer, setup completos, já incluso headset, cadeiras gamer para o seu maior conforto durante suas “jogatinas”. Paras empresas, temos descontos especiais para você ter os melhores produtos na sua empresa. Oferecemos também serviços de manutençőes, de peças em geral. Confira também nossa linha de vídeogames, jogos e action figures.</p>
+            <div>
+                <ul id="album-fotos">
+                    <h1>
+                        Hardware<h1>
+
+                            <li id="foto01"><span style='position:relative; bottom:-75px; right:0px;'>Gabinete</span></li>
+                            <li id="foto02"><span style='position:relative; bottom:-75px; right:-68px;'>Gabinete</span></li>
+                            <li id="foto03"><span style='position:relative; bottom:-75px; right:-70px;'>Mouse</span></li>
+                            <li id="foto04"><span style='position:relative; bottom:-75px; right:-70px;'>Mouse</span></li>
+                            <li id="foto05"><span style='position:relative; bottom:-75px; right:-68px;'>Teclado</span></li>
+                            <li id="foto06"><span style='position:relative; bottom:-75px; right:-70px;'>Teclado</span></li>
+                            <li id="foto07"><span style='position:relative; bottom:-75px; right:-43px;'>Placa-de-vídeo</span></li>
+                </ul>
+                <ul id="album-fotos">
+                    <h1>
+                        Consultoria<h1>
+                            <li id="foto08"><span style='position:relative; bottom:-75px; right:-50px;'>Consultoria</span></li>
+                            <li id="foto09"><span style='position:relative; bottom:-65px; right:-72px;'>Aux. à</span></br><span style='position:relative; bottom:120px; right:-60px;'>Distância</li>
+                            <li id="foto10"><span style='position:relative; bottom:-80px; right:-75px;'>Redes</span></li>
+                            <li id="foto11"><span style='position:relative; bottom:-80px; right:-57px;'>Integração</span></li>
+                            <li id="foto12"><span style='position:relative; bottom:-65px; right:-80px;'>Aux.</span></br><span style='position:relative; bottom:120px; right:-55px;'>Presencial</li>
+                </ul>
+				</div>
+        </article>
+    </section>
+</div>

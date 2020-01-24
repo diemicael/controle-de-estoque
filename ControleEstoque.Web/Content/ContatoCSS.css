@@ -1,0 +1,63 @@
+﻿
+form {
+    font-family: 'Asap', sans-serif;
+    font-size: 15px;
+    background-color: rgba(204, 202, 202, 0.397);
+    width: 600px;
+    height: 510px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translateY(5%) translateX(-50%)
+}
+
+h1 {
+    text-align:center;
+    margin-bottom: 20px;
+    margin-left: 120px;
+    color: rgb(19, 134, 57);
+}
+
+input, textarea {
+    width: 280px;
+    padding: 10px;
+    color: rgb(0, 0, 0);
+    margin-left: 135px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border: 1px solid;
+}
+
+    input:hover, textarea:hover, input:focus, textarea:focus {
+        border-color: black;
+        box-shadow: 5px 0px 9px #EDA671;
+        background-color: #EDA671;
+        color: black;
+        font-weight: bold;
+    }
+
+.submit a {
+    background-color: #EDA671;
+    height: 40px;
+    width: 100px;
+    font-weight: bold;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border: 1px solid;
+    color: black;
+    text-align: center;
+}
+
+textarea {
+    width: 400px;
+    height: 120px;
+    line-height: 20px;
+    max-width: 400px;
+}
+
+form label {
+    margin-left: -370px;
+    color: rgb(19, 134, 57);
+    font-weight: bold;
+}

@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewBag.Title = "Marca de Produtos";
+}
+
+    <link href="~/Content/bootstrap-select.css" rel="stylesheet" />
+    <link href="~/Content/ContatoCSS.css" rel="stylesheet" />
+
+<div class="row">
+    <form name="meu_form">
+
+        <h1>Entre em contato conosco</h1>
+
+        <p class="nome">
+            <input type="text" id="nomeid" placeholder="Ex: Diêison Micael" required="required" name="nome" />
+            <label for="nome">Nome:</label>
+        </p>
+        <p class="fone">
+            <input type="text" id="foneid" placeholder="(xx)xxxxx-xxxx" required="required" name="fone" />
+            <label for="fone">Fone:</label>
+
+        </p>
+        <p>
+            <input type="email" id="emailid" placeholder="fulano@mail.com" required="required" name="email" />
+            <label for="email">Email:<label>
+        </p>
+        <p>
+            <textarea id="mensagemid" placeholder="Deixe sua mensagem" required="required"></textarea>
+        </p>
+        <p class="submit">
+            <a id="btn_enviar" class="btn btn-primary" role="button">
+                <i class="glyphicon glyphicon-ok"></i> Enviar
+            </a>
+        </p>
+    </form>
+</div>
+
+@section Scripts{
+    <script src="~/Scripts/Cadastro/JavaS.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="https://igorescobar.github.io/jQuery-Mask-Plugin/js/jquery.mask.min.js"></script>
+}

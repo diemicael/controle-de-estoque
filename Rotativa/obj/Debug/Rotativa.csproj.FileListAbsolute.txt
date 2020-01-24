@@ -1,0 +1,140 @@
+C:\Users\Pichau\Desktop\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\Rotativa.dll
+C:\Users\Pichau\Desktop\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\Rotativa.pdb
+C:\Users\Pichau\Desktop\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Pichau\Desktop\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.Helpers.dll
+C:\Users\Pichau\Desktop\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.Mvc.dll
+C:\Users\Pichau\Desktop\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.Razor.dll
+C:\Users\Pichau\Desktop\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Pichau\Desktop\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.dll
+C:\Users\Pichau\Desktop\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Pichau\Desktop\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.Helpers.xml
+C:\Users\Pichau\Desktop\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.Mvc.xml
+C:\Users\Pichau\Desktop\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.Razor.xml
+C:\Users\Pichau\Desktop\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.xml
+C:\Users\Pichau\Desktop\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Pichau\Desktop\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Pichau\Desktop\Controle Estoque\ControleEstoque\Rotativa\obj\Debug\Rotativa.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\Controle Estoque\ControleEstoque\Rotativa\obj\Debug\Rotativa.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Controle Estoque\ControleEstoque\Rotativa\obj\Debug\Rotativa.csproj.CopyComplete
+C:\Users\Pichau\Desktop\Controle Estoque\ControleEstoque\Rotativa\obj\Debug\Rotativa.dll
+C:\Users\Pichau\Desktop\Controle Estoque\ControleEstoque\Rotativa\obj\Debug\Rotativa.pdb
+F:\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\Rotativa.dll
+F:\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\Rotativa.pdb
+F:\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.Helpers.dll
+F:\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.Mvc.dll
+F:\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.Razor.dll
+F:\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.dll
+F:\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.Razor.dll
+F:\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.Helpers.xml
+F:\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.Mvc.xml
+F:\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.Razor.xml
+F:\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.xml
+F:\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.Razor.xml
+F:\Controle Estoque\ControleEstoque\Rotativa\obj\Debug\Rotativa.csprojAssemblyReference.cache
+F:\Controle Estoque\ControleEstoque\Rotativa\obj\Debug\Rotativa.csproj.CoreCompileInputs.cache
+F:\Controle Estoque\ControleEstoque\Rotativa\obj\Debug\Rotativa.csproj.CopyComplete
+F:\Controle Estoque\ControleEstoque\Rotativa\obj\Debug\Rotativa.dll
+F:\Controle Estoque\ControleEstoque\Rotativa\obj\Debug\Rotativa.pdb
+C:\DIEISON\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\Rotativa.dll
+C:\DIEISON\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\Rotativa.pdb
+C:\DIEISON\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\DIEISON\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.Helpers.dll
+C:\DIEISON\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.Mvc.dll
+C:\DIEISON\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.Razor.dll
+C:\DIEISON\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\DIEISON\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.dll
+C:\DIEISON\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.Razor.dll
+C:\DIEISON\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.Helpers.xml
+C:\DIEISON\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.Mvc.xml
+C:\DIEISON\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.Razor.xml
+C:\DIEISON\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.xml
+C:\DIEISON\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\DIEISON\Controle Estoque\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.Razor.xml
+C:\DIEISON\Controle Estoque\ControleEstoque\Rotativa\obj\Debug\Rotativa.csprojAssemblyReference.cache
+C:\DIEISON\Controle Estoque\ControleEstoque\Rotativa\obj\Debug\Rotativa.csproj.CoreCompileInputs.cache
+C:\DIEISON\Controle Estoque\ControleEstoque\Rotativa\obj\Debug\Rotativa.csproj.CopyComplete
+C:\DIEISON\Controle Estoque\ControleEstoque\Rotativa\obj\Debug\Rotativa.dll
+C:\DIEISON\Controle Estoque\ControleEstoque\Rotativa\obj\Debug\Rotativa.pdb
+F:\ControleEstoque\Rotativa\bin\Debug\Rotativa.dll
+F:\ControleEstoque\Rotativa\bin\Debug\Rotativa.pdb
+F:\ControleEstoque\Rotativa\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\ControleEstoque\Rotativa\bin\Debug\System.Web.Helpers.dll
+F:\ControleEstoque\Rotativa\bin\Debug\System.Web.Mvc.dll
+F:\ControleEstoque\Rotativa\bin\Debug\System.Web.Razor.dll
+F:\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.dll
+F:\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.Razor.dll
+F:\ControleEstoque\Rotativa\bin\Debug\System.Web.Helpers.xml
+F:\ControleEstoque\Rotativa\bin\Debug\System.Web.Mvc.xml
+F:\ControleEstoque\Rotativa\bin\Debug\System.Web.Razor.xml
+F:\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.xml
+F:\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.Razor.xml
+F:\ControleEstoque\Rotativa\obj\Debug\Rotativa.csprojAssemblyReference.cache
+F:\ControleEstoque\Rotativa\obj\Debug\Rotativa.csproj.CoreCompileInputs.cache
+F:\ControleEstoque\Rotativa\obj\Debug\Rotativa.csproj.CopyComplete
+F:\ControleEstoque\Rotativa\obj\Debug\Rotativa.dll
+F:\ControleEstoque\Rotativa\obj\Debug\Rotativa.pdb
+D:\ControleEstoque\Rotativa\bin\Debug\Rotativa.dll
+D:\ControleEstoque\Rotativa\bin\Debug\Rotativa.pdb
+D:\ControleEstoque\Rotativa\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\ControleEstoque\Rotativa\bin\Debug\System.Web.Helpers.dll
+D:\ControleEstoque\Rotativa\bin\Debug\System.Web.Mvc.dll
+D:\ControleEstoque\Rotativa\bin\Debug\System.Web.Razor.dll
+D:\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.dll
+D:\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.Razor.dll
+D:\ControleEstoque\Rotativa\bin\Debug\System.Web.Helpers.xml
+D:\ControleEstoque\Rotativa\bin\Debug\System.Web.Mvc.xml
+D:\ControleEstoque\Rotativa\bin\Debug\System.Web.Razor.xml
+D:\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.xml
+D:\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.Razor.xml
+D:\ControleEstoque\Rotativa\obj\Debug\Rotativa.csprojAssemblyReference.cache
+D:\ControleEstoque\Rotativa\obj\Debug\Rotativa.csproj.CoreCompileInputs.cache
+D:\ControleEstoque\Rotativa\obj\Debug\Rotativa.csproj.CopyComplete
+D:\ControleEstoque\Rotativa\obj\Debug\Rotativa.dll
+D:\ControleEstoque\Rotativa\obj\Debug\Rotativa.pdb
+G:\ControleEstoque\Rotativa\bin\Debug\Rotativa.dll
+G:\ControleEstoque\Rotativa\bin\Debug\Rotativa.pdb
+G:\ControleEstoque\Rotativa\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\ControleEstoque\Rotativa\bin\Debug\System.Web.Helpers.dll
+G:\ControleEstoque\Rotativa\bin\Debug\System.Web.Mvc.dll
+G:\ControleEstoque\Rotativa\bin\Debug\System.Web.Razor.dll
+G:\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.dll
+G:\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.Razor.dll
+G:\ControleEstoque\Rotativa\bin\Debug\System.Web.Helpers.xml
+G:\ControleEstoque\Rotativa\bin\Debug\System.Web.Mvc.xml
+G:\ControleEstoque\Rotativa\bin\Debug\System.Web.Razor.xml
+G:\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.xml
+G:\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\ControleEstoque\Rotativa\bin\Debug\System.Web.WebPages.Razor.xml
+G:\ControleEstoque\Rotativa\obj\Debug\Rotativa.csprojAssemblyReference.cache
+G:\ControleEstoque\Rotativa\obj\Debug\Rotativa.csproj.CoreCompileInputs.cache
+G:\ControleEstoque\Rotativa\obj\Debug\Rotativa.csproj.CopyComplete
+G:\ControleEstoque\Rotativa\obj\Debug\Rotativa.dll
+G:\ControleEstoque\Rotativa\obj\Debug\Rotativa.pdb
+C:\DIEISON\ControleEstoque.bkp\Rotativa\bin\Debug\Rotativa.dll
+C:\DIEISON\ControleEstoque.bkp\Rotativa\bin\Debug\Rotativa.pdb
+C:\DIEISON\ControleEstoque.bkp\Rotativa\bin\Debug\System.Web.Helpers.xml
+C:\DIEISON\ControleEstoque.bkp\Rotativa\bin\Debug\System.Web.Mvc.xml
+C:\DIEISON\ControleEstoque.bkp\Rotativa\bin\Debug\System.Web.Razor.xml
+C:\DIEISON\ControleEstoque.bkp\Rotativa\bin\Debug\System.Web.WebPages.xml
+C:\DIEISON\ControleEstoque.bkp\Rotativa\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\DIEISON\ControleEstoque.bkp\Rotativa\bin\Debug\System.Web.WebPages.Razor.xml
+C:\DIEISON\ControleEstoque.bkp\Rotativa\obj\Debug\Rotativa.csprojAssemblyReference.cache
+C:\DIEISON\ControleEstoque.bkp\Rotativa\obj\Debug\Rotativa.csproj.CoreCompileInputs.cache
+C:\DIEISON\ControleEstoque.bkp\Rotativa\obj\Debug\Rotativa.csproj.CopyComplete
+C:\DIEISON\ControleEstoque.bkp\Rotativa\obj\Debug\Rotativa.dll
+C:\DIEISON\ControleEstoque.bkp\Rotativa\obj\Debug\Rotativa.pdb
+C:\DIEISON\ControleEstoque.bkp\Rotativa\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\DIEISON\ControleEstoque.bkp\Rotativa\bin\Debug\System.Web.Helpers.dll
+C:\DIEISON\ControleEstoque.bkp\Rotativa\bin\Debug\System.Web.Mvc.dll
+C:\DIEISON\ControleEstoque.bkp\Rotativa\bin\Debug\System.Web.Razor.dll
+C:\DIEISON\ControleEstoque.bkp\Rotativa\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\DIEISON\ControleEstoque.bkp\Rotativa\bin\Debug\System.Web.WebPages.dll
+C:\DIEISON\ControleEstoque.bkp\Rotativa\bin\Debug\System.Web.WebPages.Razor.dll

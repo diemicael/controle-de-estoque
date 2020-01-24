@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Infogram</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="~/Content/sweetalert2.min.css" rel="stylesheet" />
+</head>
+<body id="img">
+    <div class="navbar navbar-inverse navbar-fixed-top" style="background-color:darkgreen;">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Infogram- Loja de Informática", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            Cadastros
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Grupos de produtos", "Index", "CadGrupoProduto")</li>
+                            <li>@Html.ActionLink("Marcas de produtos", "Index", "CadMarcaProduto")</li>
+                            <li>@Html.ActionLink("Locais de armazenamento", "Index", "CadLocalArmazenamento")</li>
+                            <li>@Html.ActionLink("Unidades de medida", "Index", "CadUnidadeMedida")</li>
+                            <li>@Html.ActionLink("Produtos", "Index", "CadProduto")</li>
+                            <li class="nav-divider"></li>
+                            <li>@Html.ActionLink("Países", "Index", "CadPais")</li>
+                            <li>@Html.ActionLink("Estados", "Index", "CadEstado")</li>
+                            <li>@Html.ActionLink("Cidades", "Index", "CadCidade")</li>
+                            <li>@Html.ActionLink("Fornecedores", "Index", "CadFornecedor")</li>
+                            <li>@Html.ActionLink("Funcionários", "Index", "CadFuncionario")</li>
+                            <li class="nav-divider"></li>
+                            <li>@Html.ActionLink("Despesas", "Index", "CadDespesas")</li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            Operações
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Entrada de produtos", "Index", "OperEntradaProduto")</li>
+                            <li>@Html.ActionLink("Saída de produtos", "Index", "OperSaidaProduto")</li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            Relatórios
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Posição do Estoque", "Index", "RelatPosicaoEstoque", null, new { target = "_blank" })</li>
+                            <li>@Html.ActionLink("Despesas", "Index", "RelatDespesa", null ,new { target = "_blank" })</li>
+
+                        </ul>
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li>@Html.ActionLink("Sobre", "Sobre", "Home")</li>
+                    <li>@Html.ActionLink("Contate-nos", "Contact", "Home")</li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p style="text-align:center;">&copy; @DateTime.Now.Year - Infogram - Loja de Informática</p>
+        </footer>
+    </div>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    <script src="~/Scripts/sweetalert2.min.js"></script>
+    @RenderSection("scripts", required: false)
+</body>
+</html>

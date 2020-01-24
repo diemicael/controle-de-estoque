@@ -1,0 +1,111 @@
+﻿@model List<ControleEstoque.Web.Models.DespesaModel>
+@{
+    Layout = "~/Views/Shared/_Cadastro.cshtml";
+    ViewBag.Title = "Despesas";
+    ViewBag.Lista = Model;
+}
+@section Styles {
+    <link href="~/Content/bootstrap-select.css" rel="stylesheet" />
+    <link href="~/Content/Cadastro/Despesa.css" rel="stylesheet" />
+}
+@section TituloGrid {
+    <th><span class="coluna-ordenacao" data-campo="data">Data</span></th>
+    <th>Ação</th>
+}
+@section CamposCadastro {
+    <div class="row">
+        <div class="col-md-6">
+            @Html.Label("txt_data", "Data", new { @class = "control-label" })
+            @Html.TextBox("txt_data", null, new { @class = "form-control", type = "date" })
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            @Html.Label("txt_agua", "Água", new { @class = "control-label" })
+            @Html.TextBox("txt_agua", null, new { @class = "form-control" })
+        </div>
+        <div class="col-md-4">
+            @Html.Label("txt_luz", "Luz", new { @class = "control-label" })
+            @Html.TextBox("txt_luz", null, new { @class = "form-control" })
+        </div>
+        <div class="col-md-4">
+            @Html.Label("txt_internet", "Internet", new { @class = "control-label" })
+            @Html.TextBox("txt_internet", null, new { @class = "form-control" })
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4">
+            @Html.Label("txt_aluguel", "Aluguel", new { @class = "control-label" })
+            @Html.TextBox("txt_aluguel", null, new { @class = "form-control" })
+        </div>
+        <div class="col-md-4">
+            @Html.Label("txt_seguranca", "Segurança", new { @class = "control-label" })
+            @Html.TextBox("txt_seguranca", null, new { @class = "form-control" })
+        </div>
+        <div class="col-md-4">
+            @Html.Label("txt_telefone", "Telefone", new { @class = "control-label" })
+            @Html.TextBox("txt_telefone", null, new { @class = "form-control" })
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4">
+            @Html.Label("txt_marketing", "Marketing", new { @class = "control-label" })
+            @Html.TextBox("txt_marketing", null, new { @class = "form-control" })
+        </div>
+    </div>
+
+}
+
+@section Scripts{
+    <script src="~/Scripts/bootstrap-select.js"></script>
+    <script src="~/Scripts/jquery.mask.min.js"></script>
+    <script>
+        var tituloPagina = '@ViewBag.Title';
+        var url_excluir = '@Url.Action("ExcluirDespesa", "CadDespesas")';
+        var url_confirmar = '@Url.Action("SalvarDespesa", "CadDespesas")';
+        var url_page_click = '@Url.Action("DespesaPagina", "CadDespesas")';
+        var url_filtro_change = '@Url.Action("DespesaPagina", "CadDespesas")';
+        var url_tam_pag_change = '@Url.Action("DespesaPagina", "CadDespesas")';
+        var url_alterar = '@Url.Action("RecuperarDespesa", "CadDespesas")';
+        var linhas = [];
+
+        @{
+            var linha = 0;
+            foreach (var item in Model)
+            {
+                linha++;
+                if (linha <= ViewBag.QuantMaxLinhasPorPagina)
+                {
+                    @:linhas.push(@Html.Raw(Json.Encode(item)));
+                                                }
+                else
+                {
+                    break;
+                }
+            }
+        }
+    </script>
+    <script src="~/Scripts/Cadastro/Despesa.js"></script>
+    <script id="template-grid" type="x-tmpl-mustache">
+        <!--<tr data-id="{{ Id }}">
+        <td>{{ Data }}</td>
+        <td>
+            <a class="btn btn-primary btn-alterar" role="button"><i class="glyphicon glyphicon-pencil"></i> Alterar</a>
+            <a class="btn btn-danger btn-excluir" role="button"><i class="glyphicon glyphicon-trash"></i> Excluir</a>
+        </td>
+    </tr>-->
+        @foreach (var item in Model)
+        {
+            <tr data-id="@item.Id">
+                <td> @Html.DisplayFor(modelItem => item.Data)</td>
+                <td>
+                    <a class="btn btn-primary btn-alterar" role="button"><i class="glyphicon glyphicon-pencil"></i> Alterar</a>
+                    <a class="btn btn-danger btn-excluir" role="button"><i class="glyphicon glyphicon-trash"></i> Excluir</a>
+                </td>
+            </tr>
+        }
+    </script>
+	}
+
